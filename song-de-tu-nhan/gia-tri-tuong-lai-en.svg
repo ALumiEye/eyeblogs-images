@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="480" viewBox="0 0 760 480">
+<rect width="760" height="480" fill="#fcfcfb"/>
+<g font-family="Arial, sans-serif" font-size="24" fill="#0b0b0b">
+<text x="80" y="35">When the future is worth enough to cooperate</text>
+<text x="80" y="67" font-size="20">Normalized value · illustrative points, not returns</text>
+<path d="M80 360 H660" stroke="#e1e0d9"/>
+<text x="60" y="367" text-anchor="end">0</text>
+<path d="M80 315 H660" stroke="#e1e0d9"/>
+<text x="60" y="322" text-anchor="end">1</text>
+<path d="M80 270 H660" stroke="#e1e0d9"/>
+<text x="60" y="277" text-anchor="end">2</text>
+<path d="M80 225 H660" stroke="#e1e0d9"/>
+<text x="60" y="232" text-anchor="end">3</text>
+<path d="M80 180 H660" stroke="#e1e0d9"/>
+<text x="60" y="187" text-anchor="end">4</text>
+<path d="M80 135 H660" stroke="#e1e0d9"/>
+<text x="60" y="142" text-anchor="end">5</text>
+<path d="M80 90 H660" stroke="#e1e0d9"/>
+<text x="60" y="97" text-anchor="end">6</text>
+<text x="80" y="392" text-anchor="middle">0</text>
+<text x="370.0" y="392" text-anchor="middle">0.5</text>
+<text x="660" y="392" text-anchor="middle">1</text>
+<path d="M80 225 H660" stroke="#2a78d6" stroke-width="3"/>
+<path d="M80 135 L660 315" stroke="#eb6834" stroke-width="3" stroke-dasharray="9 6"/>
+<path d="M370.0 225 V360" stroke="#52514e" stroke-dasharray="3 5"/>
+<circle cx="370.0" cy="225" r="6" fill="#0b0b0b" stroke="#fcfcfb" stroke-width="2"/>
+<text x="384.0" y="210">Threshold 0.5</text>
+<text x="676" y="232" font-size="20">Keep</text>
+<text x="676" y="322" font-size="20">Break</text>
+<text x="80" y="428" font-size="20">Horizontal axis: discount factor delta (delta &lt; 1)</text>
+<path d="M80 455 H115" stroke="#2a78d6" stroke-width="3"/>
+<text x="125" y="462" font-size="20">Keep cooperating</text>
+<path d="M350 455 H385" stroke="#eb6834" stroke-width="3" stroke-dasharray="9 6"/>
+<text x="395" y="462" font-size="20">Break once, lose cooperation</text></g></svg>

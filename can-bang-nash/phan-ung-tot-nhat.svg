@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="480" viewBox="0 0 760 480">
+<rect width="760" height="480" fill="#fcfcfb"/>
+<g font-family="Arial, sans-serif" font-size="24" fill="#0b0b0b">
+<text x="80" y="35">Đối thủ chọn Bắc nhiều hơn, A nên đi đâu?</text>
+<text x="80" y="67" font-size="20">Điểm lợi ích kỳ vọng · mô hình minh họa</text>
+<path d="M80 360 H660" stroke="#e1e0d9"/>
+<text x="60" y="367" text-anchor="end">0</text>
+<path d="M80 315 H660" stroke="#e1e0d9"/>
+<text x="60" y="322" text-anchor="end">1</text>
+<path d="M80 270 H660" stroke="#e1e0d9"/>
+<text x="60" y="277" text-anchor="end">2</text>
+<path d="M80 225 H660" stroke="#e1e0d9"/>
+<text x="60" y="232" text-anchor="end">3</text>
+<path d="M80 180 H660" stroke="#e1e0d9"/>
+<text x="60" y="187" text-anchor="end">4</text>
+<path d="M80 135 H660" stroke="#e1e0d9"/>
+<text x="60" y="142" text-anchor="end">5</text>
+<path d="M80 90 H660" stroke="#e1e0d9"/>
+<text x="60" y="97" text-anchor="end">6</text>
+<text x="80" y="392" text-anchor="middle">0%</text>
+<text x="370.0" y="392" text-anchor="middle">50%</text>
+<text x="660" y="392" text-anchor="middle">100%</text>
+<path d="M80 90 L660 270" fill="none" stroke="#2a78d6" stroke-width="3"/>
+<path d="M80 315 L660 135" fill="none" stroke="#eb6834" stroke-width="3" stroke-dasharray="9 6"/>
+<path d="M442.5 202.5 V360" stroke="#52514e" stroke-dasharray="3 5"/>
+<circle cx="442.5" cy="202.5" r="6" fill="#0b0b0b" stroke="#fcfcfb" stroke-width="2"/>
+<text x="456.5" y="297.5">62,5% · 3,5 điểm</text>
+<text x="676" y="277">Bắc</text><text x="676" y="142">Nam</text>
+<text x="80" y="428" font-size="20">Trục ngang: xác suất B chọn Bắc</text>
+<path d="M80 455 H115" stroke="#2a78d6" stroke-width="3"/>
+<text x="125" y="462" font-size="20">A chọn Bắc</text>
+<path d="M350 455 H385" stroke="#eb6834" stroke-width="3" stroke-dasharray="9 6"/>
+<text x="395" y="462" font-size="20">A chọn Nam</text></g></svg>
